@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../xampp1/htdocs/RFC_in_php"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../manishapy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shekharf1"
+	}
+}
